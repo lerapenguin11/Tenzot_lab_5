@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Дз к лекции 5</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sent_message"></string>
+    <string name="message_read">Сообщение прочитано</string>
+    <string name="edit_text">Введите сообщение</string>
+    <string name="all_messages_read">All messages is read</string>
+    <string name="read">Read</string>
+    <string name="send_message_b">Send message</string>
+    <string name="enter_message">Введите сообщение</string>
+
+</resources>
